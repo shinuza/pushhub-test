@@ -1,0 +1,14 @@
+
+.foo{
+margin-top:20px;
+margin-left:20px;
+}
+#dots a { 
+background-color:blue;
+display:block; 
+border:2px dashed red;
+}
+#dots a:hover {border:2px dashed #cfc;}
+#dots img {display:block;border:none;background:#ffc;padding:4px;}
+
+#dots a:hover img{background:#7eddff}
